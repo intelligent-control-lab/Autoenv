@@ -54,7 +54,7 @@ echo "export PATH=$(pwd)/julia-1.1.0/bin:$PATH" >> ~/.bashrc
 Make sure the `julia` command pops up a julia 1.1 interpreter.
 
 ### Install ngsim_env
-If meet a problem for installing NGSIM package please see this doc [NGSIM](https://github.com/intelligent-control-lab/Autoenv/doc/NGSIM.md) contributed by Simin Liu
+If have problems for installing NGSIM package please check out this doc [NGSIM](https://github.com/intelligent-control-lab/Autoenv/blob/master/doc/NGSIM.md) contributed by Simin Liu
 
 ```bash
 conda activate rllab3
